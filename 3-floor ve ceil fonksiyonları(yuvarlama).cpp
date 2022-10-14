@@ -21,7 +21,7 @@ sonuc2=ceil(sayi2);
 printf("%.f",sonuc2);
 
 	
-	
+	getch();
 	return 0;
 }
 

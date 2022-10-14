@@ -26,7 +26,7 @@ int main()  {
 	printf("sayinin karekoku = %f dir",sonuc);
 	
 
-	
+	getch();
 	return 0;
 }
 

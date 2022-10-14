@@ -15,7 +15,7 @@ int main()  {
     sonuc2=log10(sayi2);
     printf("sonuc=%.2f",sonuc2);
 
-	
+	getch();
 	return 0;
 }
 
